@@ -1,0 +1,43 @@
+
+/* these are my amazing styles upon styles*/
+
+h1{}
+h2{
+	font-family: Verdana, sans-serif;
+	color: #576D94;
+}
+h3{
+
+	font-size: 17px;
+	color: purple;
+}
+h4{font-size: 16px;
+	color: green;
+}
+
+h5{font-size: 14px;
+	color: orange;
+}
+h6{}
+
+img{
+	border:20px; 
+	height: 100px;
+	width: 100px;
+}
+
+p{
+font-family: Garamond, serif;
+	color: #484943;
+font-size: 18px; this is the old size
+
+/* font-size: 59px; */
+}
+
+a {
+	color:purple;
+	font-size: 50px;
+	font-family: comic-sans, sans-serif;
+}
+
+span{color: blue;}

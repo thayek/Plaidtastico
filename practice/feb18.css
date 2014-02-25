@@ -1,0 +1,35 @@
+img {
+	display: block;
+	height: 100px;
+	width: 300px;
+	margin: auto;
+}
+
+p {
+	text-align: center;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+
+/*Start adding your CSS below!*/
+
+.button {
+height:50px;
+width: 220px;
+border-color: #6495ED;
+background-color: #BCD2EE;
+border-style: solid;
+border-width:2px;
+border-radius: 20px;
+margin: auto;
+padding: 20px;
+text-align: center;
+}
+
+a {
+	font-family: helvetica; san-serif;
+	font-size: 45px;
+	color: white;
+	text-decoration: none;
+	padding-top: 4px;
+}
