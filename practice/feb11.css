@@ -2,16 +2,15 @@
 /* these are my amazing styles upon styles*/
 
 h1{}
-h2{
-	font-family: Verdana, sans-serif;
-	color: #576D94;
-}
+h2{font-family: Verdana, sans-serif;
+	color: #576D94;}
 h3{
 
 	font-size: 17px;
 	color: purple;
 }
-h4{font-size: 16px;
+h4{
+    font-size: 16px;
 	color: green;
 }
 
@@ -29,7 +28,7 @@ img{
 p{
 font-family: Garamond, serif;
 	color: #484943;
-font-size: 18px; this is the old size
+font-size: 18px; /*this is the old size */
 
 /* font-size: 59px; */
 }
