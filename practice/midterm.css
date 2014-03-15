@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+font-size: 45px;
+font-family: helvetica, arial, sans-serif;
+color: #EE5A3F;} 
+
+h2 {font-family: helvetica, arial, sans-serif;
+    color: #EE5A3F;}
+p {font-family: helvetica, arial, sans-serif;}
+ol {font-family: helvetica, arial, sans-serif;}
+
+.big-box {
+width: 100%;
+background-color: #8FDAD6;
+
+text-align: center;
+}
+
+h3 {
+    font-family: helvetica, arial, sans-serif;
+    color: #31757D;
+    font-size: 40px;
+}
